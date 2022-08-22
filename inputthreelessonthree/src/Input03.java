@@ -16,12 +16,7 @@ class Input03 {
         System.out.println("Adding Integers");
         System.out.println(x+y+z);
         sc.close();
-        //Find and print the sum of three integers entered by the user
-
-
-
-
-        //Remember to close the Scanner
+        
 
     }
 }
